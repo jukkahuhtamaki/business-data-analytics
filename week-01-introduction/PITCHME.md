@@ -27,9 +27,11 @@ is a "a new resolve to apply powerful data-gathering and analysis methods not ju
 
 ## Business data
 
-![Business data big picture](images/bigdata_diagram.png "Business data big picture")
+![Business data big picture](images/bigdata_diagram.png)
 
-https://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/
+  <!-- bigdata_diagram.png "Business data big picture")
+
+https://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/ -->
 
 ---
 

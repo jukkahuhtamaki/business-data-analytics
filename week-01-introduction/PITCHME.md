@@ -25,6 +25,46 @@ is a "a new resolve to apply powerful data-gathering and analysis methods not ju
 
 ---
 
+## Business data
+
+
+
+
+---
+
+## Course technology stack
+
+We take an interactive computing approach to data analytics (cf. data science)
+
+* Python3 (compatibility with basic studies and specialization studies in machine learning, e.g.
+SGN-41007 Pattern Recognition and Machine Learning)
+* Pandas & SFrame (Scipy)
+* scikit-learn ([Apple Turi](https://github.com/apple/turicreate))
+* NetworkX
+
+* Jupyter
+* Highcharts, D3.js
+
+
+
+---
+
+
+---
+
+Learning outcomes
+
+Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.
+* osaamistavoitteet laaditaan ydinainesanalyysin pohjalta
+* osaamistavoitekuvaus alkaa aina lausekkeella "Opintojakson suoritettuaan opiskelija osaa..."
+* osaamistavoitteiden kuvuksessa käytetään verbejä (Bloomin taksonomia), joista ilmenee vaadittu osaamisen vähimmäistaso.
+
+Philosophy
+
+
+
+
+
 Introduction to business analytics
 * Analytics 3.0 (Davenport)
 * Examples and use cases

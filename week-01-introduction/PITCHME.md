@@ -27,7 +27,7 @@ is a "a new resolve to apply powerful data-gathering and analysis methods not ju
 
 ## Business data
 
-![Business data big picture](week-01-introduction/images/bigdata_diagram.png)
+![Business data big picture](week-01-introduction/image/bigdata_diagram.png)
 
 <!-- ![Business data big picture](https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2012/05/bigdata_diagram.png) -->
 

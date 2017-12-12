@@ -36,7 +36,7 @@ is a "a new resolve to apply powerful data-gathering and analysis methods not ju
 
 We take an interactive computing approach to data analytics (cf. data science)
 
-* Python3 <span style="font-size: smaller;">(compatibility with basic studies and specialization studies in machine learning, e.g.
+* Python3 <span style="font-size: small;">(compatibility with basic studies and specialization studies in machine learning, e.g.
 SGN-41007 Pattern Recognition and Machine Learning)</span>
 * Pandas & SFrame (Scipy)
 * scikit-learn ([Apple Turi](https://github.com/apple/turicreate))

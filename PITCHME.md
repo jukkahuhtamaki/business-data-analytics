@@ -1,8 +1,22 @@
-PITCHME.md
+<!-- PITCHME.md
 
-# Hello, World!
+# Hello, World! -->
 
 # Course plan for a course in Business Data Analytics (10 minutes)
+
+---
+## Outline
+
+* Introduction to business analytics
+* Collecting and accessing business data
+* Predictive analytics
+* Supervised and unsupervised learning
+* Data products and prescriptive analytics
+* Visualization for sensemaking and decision-making
+* Ecosystem analytics
+
+---
+
 
 ---
 

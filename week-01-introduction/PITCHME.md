@@ -58,7 +58,7 @@ We take an interactive computing approach to data analytics (cf. data science)
 * Jupyter, IPython, [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle)
 * Highcharts, D3.js
 
-<span style="font-size: small;">*Compatibility with basic studies and specialization studies in machine learning, e.g.,
+<span style="font-size: small;">\*Compatibility with basic studies and specialization studies in machine learning, e.g.,
 [SGN-41007 Pattern Recognition and Machine Learning](http://www.cs.tut.fi/courses/SGN-41007/)</span>
 
 ---
@@ -70,14 +70,13 @@ We take an interactive computing approach to data analytics (cf. data science)
 * osaamistavoitekuvaus alkaa aina lausekkeella "Opintojakson suoritettuaan opiskelija osaa..."
 * osaamistavoitteiden kuvuksessa käytetään verbejä (Bloomin taksonomia), joista ilmenee vaadittu osaamisen vähimmäistaso. -->
 
-After completing Business Data Analytics (BDA), the student will be able to ...
+After completing the course, the student knows a core set of BDA approaches and their applications and is able to ...
 
-* identify main stream of business data and data quality requirements conducive to data-driven culture
-* knows a core set of BDA approaches and their applications
-* explain the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA
-* apply unsupervised, semi-supervised, and supervised learning to conduct BDA
-* utilize visual analytics to share BDA insights to support decision-making
-* design data-processing pipelines for reproducible BDA
+- identify main stream of business data and data quality requirements conducive to data-driven culture |
+- explain the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
+- apply unsupervised, semi-supervised, and supervised learning to conduct BDA |
+- utilize visual analytics to share BDA insights to support decision-making |
+- design data-processing pipelines for reproducible BDA |
 
 ---
 
@@ -86,7 +85,7 @@ After completing Business Data Analytics (BDA), the student will be able to ...
 * Flipped classroom: students will receive tasks, videos, and material before each class
 * Connected learning: we use real-life tools and information sources
 * Authentic learning: real-life business data (you can bring your own)
-* Learning diary and exercise work
+* Social constructivist: exercise work is built in phases and presented to other students for peer learning
 
 ---
 
@@ -94,10 +93,10 @@ After completing Business Data Analytics (BDA), the student will be able to ...
 
 You will describe each weeks' topic from your viewpoint
 
-* Applied vs. list-like: synthesize course content further
-* Reflective: describe how course content relates to your knowledge
-* Extending and generalizing: build on what you learned and point to future directions
-* Completeness and validity: cover the core topics and get the facts straight
+* *Applied vs. list-like*: synthesize course content further
+* *Reflective*: describe how course content relates to your knowledge
+* *Extending and generalizing*: build on what you learned and point to future directions
+* *Completeness and validity*: cover the core topics and get the facts straight
 
 ---
 
@@ -105,6 +104,12 @@ You will describe each weeks' topic from your viewpoint
 
 Exercise work is split into six steps, each of which is reported on course social media platform:
 
+* Data source: select or collect
+* Refine data: clean data, design features
+* Explore and describe the data
+* Implement BDA of choice: predict, classify, segment
+* Data product: implement prescriptive feature or build a dashboard
+* Evaluate and report
 
 ---
 <!--
@@ -153,13 +158,40 @@ Visualization for sensemaking and decision-making
 
 ---
 
-Data-driven culture
+# Data-driven culture
+
+1. Single source of truth
+2. Data dictionary
+3. Broad data access
+4. Data literacy
+5. Decision making
+
+Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/))
+
+---
+
+## 1. Single source of truth
+
+
+
+
+---
+## Five dimensions
+
+*  
+
+---
+
+## Process model: CRISP-DM
+<p><a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png#/media/File:CRISP-DM_Process_Diagram.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="CRISP-DM Process Diagram.png" height="900" width="898"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kennethajensen&amp;action=edit&amp;redlink=1" class="new" title="User:Kennethajensen (page does not exist)">Kenneth Jensen</a> - Own work based on: <a rel="nofollow" class="external free" href="ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf">ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf</a> (Figure 1), <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24930610">Link</a></p>
+
+---
+
+## Lean analytics
 
 ---
 
 
-
----
 
  ## The End.
 

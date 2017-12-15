@@ -7,14 +7,14 @@
 ---
 ## Outline
 
-* Introduction to business analytics
-* Collecting and accessing business data |
-* Exploratory and descriptive BDA, unsupervised learning |
-* Predictive BDA, supervised learning |
+- Introduction to business analytics
+- Collecting and accessing business data |
+- Exploratory and descriptive BDA, unsupervised learning |
+- Predictive BDA, supervised learning |
 <!-- * Supervised and unsupervised learning -->
-* Data-driven decision making culture |
-* Data products and prescriptive analytics |
-* Visualization for sensemaking and decision-making |
+- Data-driven decision making culture |
+- Data products and prescriptive analytics |
+- Visualization for sensemaking and decision-making |
 <!-- * Ecosystem analytics -->
 
 ---

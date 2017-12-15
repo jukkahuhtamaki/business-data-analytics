@@ -9,11 +9,13 @@
 
 * Introduction to business analytics
 * Collecting and accessing business data
-* Predictive analytics
-* Supervised and unsupervised learning
+* Exploratory and descriptive BDA, unsupervised learning
+* Predictive BDA, supervised learning
+<!-- * Supervised and unsupervised learning -->
+* Data-driven decision making culture
 * Data products and prescriptive analytics
 * Visualization for sensemaking and decision-making
-* Ecosystem analytics
+<!-- * Ecosystem analytics -->
 
 ---
 
@@ -50,25 +52,52 @@ SGN-41007 Pattern Recognition and Machine Learning)</span>
 * Jupyter, IPython, [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle)
 * Highcharts, D3.js
 
-
-
----
-
-
 ---
 
 Learning outcomes
 
-Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.
+<!-- Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.
 * osaamistavoitteet laaditaan ydinainesanalyysin pohjalta
 * osaamistavoitekuvaus alkaa aina lausekkeella "Opintojakson suoritettuaan opiskelija osaa..."
-* osaamistavoitteiden kuvuksessa käytetään verbejä (Bloomin taksonomia), joista ilmenee vaadittu osaamisen vähimmäistaso.
+* osaamistavoitteiden kuvuksessa käytetään verbejä (Bloomin taksonomia), joista ilmenee vaadittu osaamisen vähimmäistaso. -->
 
+After completing Business Data Analytics (BDA), the student will be able to ...
+
+* identify main stream of business data and data quality requirements conducive to data-driven culture
+* knows a core set of BDA approaches and their applications
+* explain the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA
+* apply unsupervised, semi-supervised, and supervised learning to conduct BDA
+* utilize visual analytics to share BDA insights to support decision-making
+* design data-processing pipelines for reproducible BDA
+
+---
+
+## Approach /Philosophy
+
+* Flipped classroom: students will receive tasks, videos, and material before each class
+* Connected learning: we use real-life tools and information sources
+* Authentic learning: real-life business data (you can bring your own)
+* Learning diary and exercise work
+
+---
+
+## Learning diary
+
+* You will describe each weeks' topic from your viewpoint
+
+
+*
+
+---
+
+## Exercise work
+
+Exercise work is split into six steps, each of which is reported on course social media platform:
+
+
+---
+<!--
 Philosophy
-
-
-
-
 
 Introduction to business analytics
 * Analytics 3.0 (Davenport)
@@ -104,15 +133,22 @@ Visualization for sensemaking and decision-making
 * Datatuotteen arkkitehtuuri
 * Vuorovaikutteisen visualisoinnin toteuttaminen
 * Javascript-visualisointikirjastot
-
+ -->
 
 ---
-
 
 # Short teaching demonstration (15 minutes)
 
 
- ---
+---
+
+Data-driven culture
+
+---
+
+
+
+---
 
  ## The End.
 

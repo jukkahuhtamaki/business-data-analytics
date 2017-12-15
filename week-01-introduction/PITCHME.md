@@ -183,20 +183,29 @@ Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-bloc
 
 ---
 
-## Process model: CRISP-DM
+# 5. Decision making
+
+---
+
+## Process model 1: CRISP-DM
 <p><a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png#/media/File:CRISP-DM_Process_Diagram.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="CRISP-DM Process Diagram.png" height="900" width="898"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kennethajensen&amp;action=edit&amp;redlink=1" class="new" title="User:Kennethajensen (page does not exist)">Kenneth Jensen</a> - Own work based on: <a rel="nofollow" class="external free" href="ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf">ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf</a> (Figure 1), <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24930610">Link</a></p>
 
 ---
 
-## Process model: Lean analytics
+## Process model 2: Lean analytics
 
 ---
+
 
 ---
 
 ![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)
 
 ---
+
+
+
+
 
  ## The End.
 

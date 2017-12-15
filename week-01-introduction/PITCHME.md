@@ -72,7 +72,7 @@ We take an interactive computing approach to data analytics (cf. data science)
 
 After completing the course, the student knows a core set of BDA approaches and their applications and is able to ...
 
-- identify main stream of business data and data quality requirements conducive to data-driven culture |
+- identify main sources of business data and data quality requirements conducive to data-driven culture |
 - explain the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
 - apply unsupervised, semi-supervised, and supervised learning to conduct BDA |
 - utilize visual analytics to share BDA insights to support decision-making |
@@ -93,10 +93,10 @@ After completing the course, the student knows a core set of BDA approaches and 
 
 You will describe each weeks' topic from your viewpoint
 
-* *Applied vs. list-like*: synthesize course content further
-* *Reflective*: describe how course content relates to your knowledge
-* *Extending and generalizing*: build on what you learned and point to future directions
-* *Completeness and validity*: cover the core topics and get the facts straight
+* **Applied vs. list-like**: synthesize course content further
+* **Reflective**: describe how course content relates to your knowledge
+* **Extending and generalizing**: build on what you learned and point to future directions
+* **Completeness and validity**: cover the core topics and get the facts straight
 
 ---
 
@@ -104,12 +104,12 @@ You will describe each weeks' topic from your viewpoint
 
 Exercise work is split into six steps, each of which is reported on course social media platform:
 
-* Data source: select or collect
-* Refine data: clean data, design features
-* Explore and describe the data
-* Implement BDA of choice: predict, classify, segment
-* Data product: implement prescriptive feature or build a dashboard
-* Evaluate and report
+* **Data source**: select or collect
+* **Refine data**: clean data, design features
+* **Explore and describe the data**
+* **Implement BDA of choice**: predict, classify, segment
+* **Data product**: implement prescriptive feature or build a dashboard
+* **Evaluate and report**
 
 ---
 <!--
@@ -172,7 +172,8 @@ Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-bloc
 
 ## 1. Single source of truth
 
-
+* Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077)
+* Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 
 ---
@@ -187,11 +188,15 @@ Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-bloc
 
 ---
 
-## Lean analytics
+## Process model: Lean analytics
 
 ---
 
+---
 
+![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)
+
+---
 
  ## The End.
 

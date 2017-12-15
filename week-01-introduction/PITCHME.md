@@ -62,8 +62,7 @@ Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
 
 ---
 
-
-Learning outcomes
+## Learning outcomes
 
 <!-- Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.
 * osaamistavoitteet laaditaan ydinainesanalyysin pohjalta
@@ -92,10 +91,12 @@ After completing Business Data Analytics (BDA), the student will be able to ...
 
 ## Learning diary
 
-* You will describe each weeks' topic from your viewpoint
+You will describe each weeks' topic from your viewpoint
 
-
-*
+* Applied vs. list-like: synthesize course content further
+* Reflective: describe how course content relates to your knowledge
+* Extending and generalizing: build on what you learned and point to future directions
+* Completeness and validity: cover the core topics and get the facts straight
 
 ---
 

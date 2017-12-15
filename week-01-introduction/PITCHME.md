@@ -43,14 +43,16 @@ Image source: https://hortonworks.com/blog/7-key-drivers-for-the-big-data-market
 
 We take an interactive computing approach to data analytics (cf. data science)
 
-* Python3 <span style="font-size: small;">(compatibility with basic studies and specialization studies in machine learning, e.g.
-SGN-41007 Pattern Recognition and Machine Learning)</span>
+* Python3*
 * Pandas & SFrame (Scipy)
 * scikit-learn ([Apple Turi](https://github.com/apple/turicreate))
 * NetworkX
 
 * Jupyter, IPython, [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle)
 * Highcharts, D3.js
+
+<span style="font-size: small;">*Compatibility with basic studies and specialization studies in machine learning, e.g.,
+[SGN-41007 Pattern Recognition and Machine Learning](http://www.cs.tut.fi/courses/SGN-41007/)</span>
 
 ---
 

@@ -8,13 +8,13 @@
 ## Outline
 
 * Introduction to business analytics
-* Collecting and accessing business data
-* Exploratory and descriptive BDA, unsupervised learning
-* Predictive BDA, supervised learning
+* Collecting and accessing business data |
+* Exploratory and descriptive BDA, unsupervised learning |
+* Predictive BDA, supervised learning |
 <!-- * Supervised and unsupervised learning -->
-* Data-driven decision making culture
-* Data products and prescriptive analytics
-* Visualization for sensemaking and decision-making
+* Data-driven decision making culture |
+* Data products and prescriptive analytics |
+* Visualization for sensemaking and decision-making |
 <!-- * Ecosystem analytics -->
 
 ---
@@ -39,6 +39,14 @@ Image source: https://hortonworks.com/blog/7-key-drivers-for-the-big-data-market
 
 ---
 
+## Methodology big picture
+
+![Road to data scientist](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
+
+Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
+
+---
+
 ## Course technology stack
 
 We take an interactive computing approach to data analytics (cf. data science)
@@ -47,20 +55,11 @@ We take an interactive computing approach to data analytics (cf. data science)
 * Pandas & SFrame (Scipy)
 * scikit-learn ([Apple Turi](https://github.com/apple/turicreate))
 * NetworkX
-
 * Jupyter, IPython, [CSC Notebooks](https://www.csc.fi/web/blog/post/-/blogs/notebooks-enemman-aikaa-opetuksen-ytimelle)
 * Highcharts, D3.js
 
 <span style="font-size: small;">*Compatibility with basic studies and specialization studies in machine learning, e.g.,
 [SGN-41007 Pattern Recognition and Machine Learning](http://www.cs.tut.fi/courses/SGN-41007/)</span>
-
----
-
-## Methodology big picture
-
-![Road to data scientist](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
-
-Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
 
 ---
 

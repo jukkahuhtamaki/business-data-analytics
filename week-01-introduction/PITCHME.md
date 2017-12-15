@@ -54,6 +54,15 @@ SGN-41007 Pattern Recognition and Machine Learning)</span>
 
 ---
 
+## Methodology big picture
+
+![Road to data scientist](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
+
+Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
+
+---
+
+
 Learning outcomes
 
 <!-- Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.

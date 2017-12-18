@@ -239,7 +239,7 @@ McAfee and Brynjolfsson
 
 ## Process 2: Lean analytics
 
-<div style="width: 500px;">![Lean analytics cycle](week-01-introduction/image/lean-analytics-cycle.png)</div>
+<div style="width: 500px;">![Lean analytics cycle](https://github.com/jukkahuhtamaki/business-data-analytics/raw/master/week-01-introduction/image/lean-analytics-cycle.png)</div>
 
 ---
 

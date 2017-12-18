@@ -245,9 +245,8 @@ Distill</p>
 Data Science <br/>
 Whatever means</p>
 <p>Now</p>
-
 </div>
-
+<p>([Granville, 2014](https://books.google.fi/books?id=tp46AwAAQBAJ&lpg=PA10&ots=e8BoePXeeL&dq=granville%20dad%20etl%20data%20science&hl=fi&pg=PA10#v=onepage&q=granville%20dad%20etl%20data%20science&f=false))</p>
 ---
 # 4. Data literacy
 

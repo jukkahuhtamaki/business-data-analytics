@@ -224,13 +224,27 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 ## ETL vs. DAD
 
 <div style='float:left;width:48%;' class='centered'>
+<p>
 ETL
-
-* Extract
+</p>
+<p>Extract<br/>
+Transform<br/>
+Load</p>
+<p>
+Data Engineering <br/>
+Data Warehouse
+</p>
+<p>Forever</p>
 </div>
 <div style='float:right;width:48%;'>
-DAD
-
+<p>DAD</p>
+<p>Discover<br/>
+Access<br/>
+Distill</p>
+<p>
+Data Science <br/>
+Whatever means</p>
+<p>Now</p>
 
 </div>
 

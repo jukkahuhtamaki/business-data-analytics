@@ -188,9 +188,9 @@ Before we begin, let's discuss the exercise on [predicting Airbnb listing prices
 
 ## 1. Single source of truth
 
-Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077)
+<!-- Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077) -->
 
-<blockquote>The management of master data (such as customer, material, and supplier data) plays an important role for companies in responding to a number of business drivers such as regulatory compliance, integrated customer management, and efficient reporting in the sense of a “single version of the truth” [22]. Master data management (MDM) is an application-independent process for the description, ownership and management of core business data entities [2, 17].</blockquote>
+<blockquote style="font-size: small;">The management of master data (such as customer, material, and supplier data) plays an important role for companies in responding to a number of business drivers such as regulatory compliance, integrated customer management, and efficient reporting in the sense of a “single version of the truth” [22]. Master data management (MDM) is an application-independent process for the description, ownership and management of core business data entities [2, 17].</blockquote>
 
 
 Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)

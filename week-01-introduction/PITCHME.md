@@ -63,18 +63,25 @@ We take an interactive computing approach to data analytics (cf. data science)
 
 ---
 
-## Learning outcomes
+## Learning outcomes 1/2
 
 <!-- Osaamisperusteisessa opetussuunnitelmassa pääpaino on opiskelijassa ja hänen oppimistyössään. Opetussuunnitelma pohjautuu osaamistavoitteisiin (learning outcomes), jossa tutkintojen, opintokokonaisuuksien ja opintojaksojen tavoitteet kuvataan opiskelijan tavoiteltuna oppimistuloksina. Osaamistavoitteet esittävät tavoiteltua tilaa, jotka ilmaistaan tietoina, taitoina ja asenteina.
 * osaamistavoitteet laaditaan ydinainesanalyysin pohjalta
 * osaamistavoitekuvaus alkaa aina lausekkeella "Opintojakson suoritettuaan opiskelija osaa..."
 * osaamistavoitteiden kuvuksessa käytetään verbejä (Bloomin taksonomia), joista ilmenee vaadittu osaamisen vähimmäistaso. -->
 
-After completing the course, the student knows a core set of BDA approaches and their applications and is able to ...
+After completing the course, the student knows ...
 
-- identify main sources of business data and data quality requirements conducive to data-driven culture |
-- explain the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
-- apply unsupervised, semi-supervised, and supervised learning to conduct BDA |
+- a core set of BDA approaches and their applications
+- the sources of business data and data quality requirements conducive to data-driven culture |
+- the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
+
+---
+## Learning outcomes 2/2
+
+After completing the course, the student is able to ...
+
+- apply unsupervised, semi-supervised, and supervised learning to conduct BDA
 - utilize visual analytics to share BDA insights to support decision-making |
 - design data-processing pipelines for reproducible BDA |
 
@@ -82,10 +89,10 @@ After completing the course, the student knows a core set of BDA approaches and 
 
 ## Approach /Philosophy
 
-* Flipped classroom: students will receive tasks, videos, and material before each class
-* Connected learning: we use real-life tools and information sources
-* Authentic learning: real-life business data (you can bring your own)
-* Social constructivist: exercise work is built in phases and presented to other students for peer learning
+* **Flipped classroom**: students will receive material before each lecture where we focus on hands-on analytics in an interactive manner
+* **Connected learning**: we use real-life tools and information sources
+* **Authentic learning**: real-life business data (you can bring or select your own)
+* **Social constructivist:** exercise work is built in phases and presented to other students for peer learning
 
 ---
 
@@ -155,7 +162,6 @@ Visualization for sensemaking and decision-making
 
 # Short teaching demonstration (15 minutes)
 
-
 ---
 
 # Data-driven culture
@@ -169,11 +175,25 @@ Visualization for sensemaking and decision-making
 Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/))
 
 ---
+## 0. Discussion
+
+Before we begin, let's discuss the exercise on [predicting Airbnb listing prices](https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-spark/)
+
+* Which level of performance did you reach?
+* What were the key design decision that led to this performance?
+* How should the dataset be developed further to improve the performance?
+* Give three examples of business decisions on basis of your analysis!
+
+---
 
 ## 1. Single source of truth
 
-* Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077)
-* Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077)
+
+<blockquote>The management of master data (such as customer, material, and supplier data) plays an important role for companies in responding to a number of business drivers such as regulatory compliance, integrated customer management, and efficient reporting in the sense of a “single version of the truth” [22]. Master data management (MDM) is an application-independent process for the description, ownership and management of core business data entities [2, 17].</blockquote>
+
+
+Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 
 ---

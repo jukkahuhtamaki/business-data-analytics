@@ -167,7 +167,7 @@ Visualization for sensemaking and decision-making
 
 Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/))
 
---
+---
 
 ## Learning outcomes
 

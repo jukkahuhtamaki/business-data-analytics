@@ -39,14 +39,6 @@ Image source: https://hortonworks.com/blog/7-key-drivers-for-the-big-data-market
 
 ---
 
-## Methodology big picture
-
-![Road to data scientist](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)
-
-Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
-
----
-
 ## Course technology stack
 
 We take an interactive computing approach to data analytics (cf. data science)
@@ -72,7 +64,7 @@ We take an interactive computing approach to data analytics (cf. data science)
 
 After completing the course, the student knows ...
 
-- a core set of BDA approaches and their applications
+- a core set of BDA approaches and their applications |
 - the sources of business data and data quality requirements conducive to data-driven culture |
 - the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
 
@@ -81,7 +73,7 @@ After completing the course, the student knows ...
 
 After completing the course, the student is able to ...
 
-- apply unsupervised, semi-supervised, and supervised learning to conduct BDA
+- apply unsupervised, semi-supervised, and supervised learning to conduct BDA |
 - utilize visual analytics to share BDA insights to support decision-making |
 - design data-processing pipelines for reproducible BDA |
 
@@ -214,10 +206,19 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 ---
 # 4. Data literacy
 
----
+<!-- ---
+<div style="height=800;">![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)</div> -->
 
-<div style="height=800;">![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)</div>
 ---?image=http://i.imgur.com/4ZBBvb0.png&size=auto 90%
+
+--
+## Methodology big picture
+
+<p><img width="800" src="http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png" alt="Road to data scientist" /></p>
+
+Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
+
+---
 
 ---
 

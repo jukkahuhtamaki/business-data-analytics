@@ -278,9 +278,17 @@ McAfee and Brynjolfsson
 ## Process 1: CRISP-DM
 <p><a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png#/media/File:CRISP-DM_Process_Diagram.png"><img width="563" height="564" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="CRISP-DM Process Diagram.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kennethajensen&amp;action=edit&amp;redlink=1" class="new" title="User:Kennethajensen (page does not exist)">Kenneth Jensen</a> - Own work based on: <a rel="nofollow" class="external free" href="ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf">ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf</a> (Figure 1), <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24930610">Link</a></p>
 
+
+---
+## Process 2: Sensemaking
+
+![Lean analytics cycle](https://github.com/jukkahuhtamaki/business-data-analytics/raw/master/week-01-introduction/image/sensemaking.png)
+
+([Pirolli and Card, 2005](https://www.bibsonomy.org/bibtex/2ec59366c14533aef8ddd506fd2c95802/tobold))
+
 ---
 
-## Process 2: Lean analytics
+## Process 3: Lean analytics
 
 <!-- <div style="width: 600px; text-align: center"> -->
 

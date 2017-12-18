@@ -64,8 +64,9 @@ We take an interactive computing approach to data analytics (cf. data science)
 
 After completing the course, the student knows ...
 
-- a core set of BDA approaches and their applications |
-- the sources of business data and data quality requirements conducive to data-driven culture |
+- the core set of BDA approaches and their applications |
+- the role of data-driven culture in enabling business decision-making |
+- the sources of business data and data quality requirements conducive to BDA |
 - the difference between exploratory, descriptive, predictive, and prescriptive analytics in the context of BDA |
 
 ---
@@ -166,6 +167,17 @@ Visualization for sensemaking and decision-making
 
 Cf. Anderson and Li ([2017](https://techcrunch.com/2017/06/23/five-building-blocks-of-a-data-driven-culture/))
 
+--
+
+## Learning outcomes
+
+This lecture contributes to students' knowledge on
+
+- the role of data-driven culture in enabling business decision-making
+- the sources of business data and data quality requirements conducive to BDA
+
+<!-- Moreover, you will gain knowledge on the context in which BDA operates in -->
+
 ---
 ## 0. Discussion
 
@@ -195,13 +207,32 @@ Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 <blockquote style="font-size: smaller; text-align: left;">"Metadata is arguably the foundation upon which Data Governance is built; it is critical for Master Data hubs to conform to governance protocols to advantageously affect business processes and the underlying data required for them." ([Kempe, 2015](http://www.dataversity.net/confluence-metadata-master-data-management-data-modeling/))</blockquote>
 
 ---
-## 3. Broad data access
+# 3. Broad data access
+
+---
+
+## MAD skills
 
 Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that modern business data analysis insists MAD skills (competences)
 
 * **Magnetic**: Data repositories should draw instead of repel dataset
 * **Agile**: "easily ingest, digest, produce and adapt data at a rapid pace"
 * **Deep**:  "enormous datasets without resorting to samples and extracts"
+
+---
+
+## ETL vs. DAD
+
+<div style='float:left;width:48%;' class='centered'>
+ETL
+
+* Extract
+</div>
+<div style='float:right;width:48%;'>
+DAD
+
+
+</div>
 
 ---
 # 4. Data literacy
@@ -217,8 +248,6 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 <p><img width="800" src="http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png" alt="Road to data scientist" /></p>
 
 Image source: http://nirvacana.com/thoughts/becoming-a-data-scientist/
-
----
 
 ---
 
@@ -243,8 +272,6 @@ McAfee and Brynjolfsson
 <!-- <div style="width: 600px; text-align: center"> -->
 
 ![Lean analytics cycle](https://github.com/jukkahuhtamaki/business-data-analytics/raw/master/week-01-introduction/image/lean-analytics-cycle.png)
-
-<!-- </div> -->
 
 ---
 

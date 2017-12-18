@@ -211,7 +211,7 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 
 ---?image=http://i.imgur.com/4ZBBvb0.png&size=auto 90%
 
---
+---
 ## Methodology big picture
 
 <p><img width="800" src="http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png" alt="Road to data scientist" /></p>

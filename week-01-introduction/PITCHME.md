@@ -223,12 +223,12 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 
 ## ETL vs. DAD
 
-<div style='float:left;width:48%;' class='centered'>
+<div style='float:left; width:48%;'>
 <p>
 ETL
 </p>
-<p>Extract<br/>
-Transform<br/>
+<p>Extract <br/>
+Transform <br/>
 Load</p>
 <p>
 Data Engineering <br/>

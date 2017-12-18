@@ -232,14 +232,14 @@ McAfee and Brynjolfsson
 * to mute the HiPPOs - "the highest-paid person’s opinion"
 
 ---
-## Process model 1: CRISP-DM
+## Process 1: CRISP-DM
 <p><a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png#/media/File:CRISP-DM_Process_Diagram.png"><img width="563" height="564" src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="CRISP-DM Process Diagram.png"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kennethajensen&amp;action=edit&amp;redlink=1" class="new" title="User:Kennethajensen (page does not exist)">Kenneth Jensen</a> - Own work based on: <a rel="nofollow" class="external free" href="ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf">ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf</a> (Figure 1), <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24930610">Link</a></p>
 
 ---
 
-## Process model 2: Lean analytics
+## Process 2: Lean analytics
 
-![Lean analytics cycle](week-01-introduction/image/lean-analytics-cycle.png)
+<div style="width: 500px;">![Lean analytics cycle](week-01-introduction/image/lean-analytics-cycle.png)</div>
 
 ---
 

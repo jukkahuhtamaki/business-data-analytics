@@ -217,7 +217,10 @@ Cohen et al. ([2009](https://doi.org/10.14778/1687553.1687576)) suggest that mod
 ---
 
 <div style="height=800;">![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)</div>
+---?image=http://i.imgur.com/4ZBBvb0.png
+
 ---
+
 # 5. Decision making
 ---
 ## Avoiding HiPPos

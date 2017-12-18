@@ -190,23 +190,42 @@ Before we begin, let's discuss the exercise on [predicting Airbnb listing prices
 
 <!-- Starting point: [master data](https://en.wikipedia.org/w/index.php?title=Master_data&oldid=815247077) -->
 
-<blockquote style="font-size: small;">The management of master data (such as customer, material, and supplier data) plays an important role for companies in responding to a number of business drivers such as regulatory compliance, integrated customer management, and efficient reporting in the sense of a “single version of the truth” [22]. Master data management (MDM) is an application-independent process for the description, ownership and management of core business data entities [2, 17].</blockquote>
-
+<blockquote style="font-size: smaller;">"The management of master data (such as customer, material, and supplier data) plays an important role for companies in responding to a number of business drivers such as regulatory compliance, integrated customer management, and efficient reporting in the sense of a 'single version of the truth' [22]. Master data management (MDM) is an application-independent process for the description, ownership and management of core business data entities
+[[2](https://dl.acm.org/citation.cfm?id=1593444&CFID=841672660&CFTOKEN=35335552),
+[17](http://aisel.aisnet.org/cais/vol23/iss1/4/)]." (Otto and Reichert, 2010)</blockquote>
 
 Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 
 ---
-## Five dimensions
 
-*  
+## 2. Data dictionary
 
 ---
+## 3. Broad data access
 
+Cohen et al. (2009) suggest that modern business data analysis insists MAD skills (competences)
+
+* **Magnetic**: Data repositories should draw instead of repel dataset
+* **Agile**: "easily ingest, digest, produce and adapt data at a rapid pace"
+* **Deep**:  "enormous datasets without resorting to samples and extracts"
+
+---
+# 4. Data literacy
+
+---
+![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)
+---
 # 5. Decision making
-
 ---
+## Avoiding HiPPos
 
+In [Big Data: The Management Revolution](https://hbr.org/2012/10/big-data-the-management-revolution)
+McAfee and Brynjolfsson
+
+* suggest that businesses should commit to data-driven decision making culture
+* to mute the HiPPOs - "the highest-paid person’s opinion" 
+---
 ## Process model 1: CRISP-DM
 <p><a href="https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png#/media/File:CRISP-DM_Process_Diagram.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/CRISP-DM_Process_Diagram.png" alt="CRISP-DM Process Diagram.png" height="900" width="898"></a><br>By <a href="//commons.wikimedia.org/w/index.php?title=User:Kennethajensen&amp;action=edit&amp;redlink=1" class="new" title="User:Kennethajensen (page does not exist)">Kenneth Jensen</a> - Own work based on: <a rel="nofollow" class="external free" href="ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf">ftp://public.dhe.ibm.com/software/analytics/spss/documentation/modeler/18.0/en/ModelerCRISPDM.pdf</a> (Figure 1), <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24930610">Link</a></p>
 
@@ -214,24 +233,16 @@ Example 1: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
 
 ## Process model 2: Lean analytics
 
----
-
-
----
-
-![Modern data scientist](http://i.imgur.com/4ZBBvb0.png)
+![Lean analytics cycle](week-01-introduction/image/lean-analytics-cycle.png)
 
 ---
 
+## Recap
 
+How to enable data-driven decision-making culture in business context?
 
+---
 
+## Outlook: next week
 
- ## The End.
-
-
-
-
-
-
-# End of introduction
+...

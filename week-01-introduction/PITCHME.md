@@ -8,13 +8,13 @@
 ## Outline
 
 - Introduction to business analytics
-- Collecting and accessing business data |
-- Exploratory and descriptive BDA, unsupervised learning |
-- Predictive BDA, supervised learning |
+- Collecting and accessing business data
+- Exploratory and descriptive BDA, unsupervised learning
+- Predictive BDA, supervised learning
 <!-- * Supervised and unsupervised learning -->
-- Data-driven decision making culture |
-- Data products and prescriptive analytics |
-- Visualization for sensemaking and decision-making |
+- Data-driven decision making culture
+- Data products and prescriptive analytics
+- Visualization for sensemaking and decision-making
 <!-- * Ecosystem analytics -->
 
 ---
@@ -22,6 +22,8 @@
 ## Analytics 3.0
 
 is a "a new resolve to apply powerful data-gathering and analysis methods not just to a company’s operations but also to its offerings–to embed data smartness into the products and services customers buy."
+
+(You all have read the article. What are the key dimensions of BDA?)
 
 ([Thomas Davenport, 2013](https://hbr.org/2013/12/analytics-30))
 
